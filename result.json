@@ -1,0 +1,981 @@
+[
+  {
+    "number": 1,
+    "title": "CONCERNING GOD",
+    "definitions": [
+      {
+        "id": "E1Def1",
+        "references": []
+      },
+      {
+        "id": "E1Def2",
+        "references": []
+      },
+      {
+        "id": "E1Def3",
+        "references": []
+      },
+      {
+        "id": "E1Def4",
+        "references": []
+      },
+      {
+        "id": "E1Def5",
+        "references": []
+      },
+      {
+        "id": "E1Def6",
+        "references": []
+      },
+      {
+        "id": "E1Def7",
+        "references": []
+      },
+      {
+        "id": "E1Def8",
+        "references": []
+      }
+    ],
+    "axioms": [
+      {
+        "id": "E1Ax1",
+        "references": []
+      },
+      {
+        "id": "E1Ax2",
+        "references": []
+      },
+      {
+        "id": "E1Ax3",
+        "references": []
+      },
+      {
+        "id": "E1Ax4",
+        "references": []
+      },
+      {
+        "id": "E1Ax5",
+        "references": []
+      },
+      {
+        "id": "E1Ax6",
+        "references": []
+      },
+      {
+        "id": "E1Ax7",
+        "references": []
+      }
+    ],
+    "propositions": [
+      {
+        "id": "E1P1",
+        "references": []
+      },
+      {
+        "id": "E1P2",
+        "references": []
+      },
+      {
+        "id": "E1P3",
+        "references": [
+          "E10P5",
+          "E10P4"
+        ]
+      },
+      {
+        "id": "E1P4",
+        "references": [
+          "E10P1",
+          "E10P4"
+        ]
+      },
+      {
+        "id": "E1P5",
+        "references": []
+      },
+      {
+        "id": "E1P6",
+        "references": [
+          "E10P1",
+          "E10P4"
+        ]
+      },
+      {
+        "id": "E1P7",
+        "references": []
+      },
+      {
+        "id": "E1P8",
+        "references": []
+      },
+      {
+        "id": "E1P9",
+        "references": []
+      },
+      {
+        "id": "E1P10",
+        "references": []
+      },
+      {
+        "id": "E1P11",
+        "references": []
+      },
+      {
+        "id": "E1P12",
+        "references": []
+      },
+      {
+        "id": "E1P13",
+        "references": []
+      },
+      {
+        "id": "E1P14",
+        "references": []
+      },
+      {
+        "id": "E1P15",
+        "references": [
+          "E10P1"
+        ]
+      },
+      {
+        "id": "E1P16",
+        "references": []
+      },
+      {
+        "id": "E1P17",
+        "references": []
+      },
+      {
+        "id": "E1P18",
+        "references": []
+      },
+      {
+        "id": "E1P19",
+        "references": []
+      },
+      {
+        "id": "E1P20",
+        "references": []
+      },
+      {
+        "id": "E1P21",
+        "references": []
+      },
+      {
+        "id": "E1P22",
+        "references": []
+      },
+      {
+        "id": "E1P23",
+        "references": []
+      },
+      {
+        "id": "E1P24",
+        "references": []
+      },
+      {
+        "id": "E1P25",
+        "references": [
+          "E10P4"
+        ]
+      },
+      {
+        "id": "E1P26",
+        "references": []
+      },
+      {
+        "id": "E1P27",
+        "references": []
+      },
+      {
+        "id": "E1P28",
+        "references": []
+      },
+      {
+        "id": "E1P29",
+        "references": []
+      },
+      {
+        "id": "E1P30",
+        "references": [
+          "E10P6"
+        ]
+      },
+      {
+        "id": "E1P31",
+        "references": []
+      },
+      {
+        "id": "E1P32",
+        "references": []
+      },
+      {
+        "id": "E1P33",
+        "references": []
+      },
+      {
+        "id": "E1P34",
+        "references": []
+      },
+      {
+        "id": "E1P35",
+        "references": []
+      },
+      {
+        "id": "E1P36",
+        "references": []
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "title": "ON THE NATURE AND ORIGIN OF THE MIND",
+    "definitions": [
+      {
+        "id": "E2Def1",
+        "references": []
+      },
+      {
+        "id": "E2Def2",
+        "references": []
+      },
+      {
+        "id": "E2Def3",
+        "references": []
+      },
+      {
+        "id": "E2Def4",
+        "references": []
+      },
+      {
+        "id": "E2Def5",
+        "references": []
+      }
+    ],
+    "axioms": [
+      {
+        "id": "E2Ax1",
+        "references": []
+      },
+      {
+        "id": "E2Ax2",
+        "references": []
+      },
+      {
+        "id": "E2Ax3",
+        "references": []
+      },
+      {
+        "id": "E2Ax4",
+        "references": []
+      },
+      {
+        "id": "E2Ax5",
+        "references": []
+      }
+    ],
+    "propositions": [
+      {
+        "id": "E2P1",
+        "references": []
+      },
+      {
+        "id": "E2P2",
+        "references": []
+      },
+      {
+        "id": "E2P3",
+        "references": []
+      },
+      {
+        "id": "E2P4",
+        "references": []
+      },
+      {
+        "id": "E2P5",
+        "references": [
+          "E10P4"
+        ]
+      },
+      {
+        "id": "E2P6",
+        "references": [
+          "E10P4"
+        ]
+      },
+      {
+        "id": "E2P7",
+        "references": [
+          "E10P4"
+        ]
+      },
+      {
+        "id": "E2P8",
+        "references": []
+      },
+      {
+        "id": "E2P9",
+        "references": []
+      },
+      {
+        "id": "E2P10",
+        "references": [
+          "E2P2",
+          "E2P1",
+          "E1P5"
+        ]
+      },
+      {
+        "id": "E2P11",
+        "references": [
+          "E2P2",
+          "E2P3",
+          "E2P8",
+          "E1P21",
+          "E2P1"
+        ]
+      },
+      {
+        "id": "E2P12",
+        "references": [
+          "E2P9",
+          "E2P11",
+          "E2P11",
+          "E2P7"
+        ]
+      },
+      {
+        "id": "E2P13",
+        "references": [
+          "E2P9",
+          "E2P11",
+          "E2P4",
+          "E2P11",
+          "E1P36",
+          "E2P11",
+          "E1P5",
+          "E1P5",
+          "E1P8",
+          "E1P28",
+          "E2P6",
+          "E10P1"
+        ]
+      },
+      {
+        "id": "E2P14",
+        "references": [
+          "E2P12"
+        ]
+      },
+      {
+        "id": "E2P15",
+        "references": [
+          "E2P13",
+          "E2P8",
+          "E2P7"
+        ]
+      },
+      {
+        "id": "E2P16",
+        "references": [
+          "E10P1",
+          "E1P4"
+        ]
+      },
+      {
+        "id": "E2P17",
+        "references": [
+          "E2P12",
+          "E2P16",
+          "E10P2",
+          "E2P12",
+          "E2P17",
+          "E2P13",
+          "E2P7",
+          "E2P16",
+          "E1P7"
+        ]
+      },
+      {
+        "id": "E2P18",
+        "references": [
+          "E2P17",
+          "E2P16"
+        ]
+      },
+      {
+        "id": "E2P19",
+        "references": [
+          "E2P13",
+          "E2P9",
+          "E2P7",
+          "E2P11",
+          "E2P12",
+          "E2P16"
+        ]
+      },
+      {
+        "id": "E2P20",
+        "references": [
+          "E2P1",
+          "E2P3",
+          "E2P11",
+          "E2P9",
+          "E2P7"
+        ]
+      },
+      {
+        "id": "E2P21",
+        "references": [
+          "E2P12",
+          "E2P7",
+          "E2P13"
+        ]
+      },
+      {
+        "id": "E2P22",
+        "references": [
+          "E2P20",
+          "E2P12",
+          "E2P21"
+        ]
+      },
+      {
+        "id": "E2P23",
+        "references": [
+          "E2P20",
+          "E2P19",
+          "E2P11",
+          "E2P11",
+          "E2P16",
+          "E2P13"
+        ]
+      },
+      {
+        "id": "E2P24",
+        "references": [
+          "E10P1",
+          "E2P3",
+          "E2P9",
+          "E2P7",
+          "E2P11"
+        ]
+      },
+      {
+        "id": "E2P25",
+        "references": [
+          "E2P9",
+          "E2P7"
+        ]
+      },
+      {
+        "id": "E2P26",
+        "references": [
+          "E2P7",
+          "E2P16",
+          "E2P17",
+          "E2P25"
+        ]
+      },
+      {
+        "id": "E2P27",
+        "references": [
+          "E2P16"
+        ]
+      },
+      {
+        "id": "E2P28",
+        "references": [
+          "E2P16",
+          "E2P24"
+        ]
+      },
+      {
+        "id": "E2P29",
+        "references": [
+          "E2P27",
+          "E2P13",
+          "E2P23",
+          "E2P19",
+          "E2P29",
+          "E2P27",
+          "E2P25",
+          "E2P28"
+        ]
+      },
+      {
+        "id": "E2P30",
+        "references": [
+          "E2P1",
+          "E1P21",
+          "E1P28",
+          "E2P9",
+          "E2P11"
+        ]
+      },
+      {
+        "id": "E2P31",
+        "references": [
+          "E1P28",
+          "E1P33",
+          "E1P29"
+        ]
+      },
+      {
+        "id": "E2P32",
+        "references": [
+          "E2P7",
+          "E1P6"
+        ]
+      },
+      {
+        "id": "E2P33",
+        "references": [
+          "E2P32",
+          "E1P15"
+        ]
+      },
+      {
+        "id": "E2P34",
+        "references": [
+          "E2P11",
+          "E2P32"
+        ]
+      },
+      {
+        "id": "E2P35",
+        "references": [
+          "E2P33",
+          "E2P17"
+        ]
+      },
+      {
+        "id": "E2P36",
+        "references": [
+          "E1P15",
+          "E2P32",
+          "E2P7",
+          "E2P24",
+          "E2P6"
+        ]
+      },
+      {
+        "id": "E2P37",
+        "references": [
+          "E2P2"
+        ]
+      },
+      {
+        "id": "E2P38",
+        "references": [
+          "E2P7",
+          "E2P16",
+          "E25P27",
+          "E2P12",
+          "E2P11"
+        ]
+      },
+      {
+        "id": "E2P39",
+        "references": [
+          "E2P7",
+          "E2P16",
+          "E2P7",
+          "E2P13",
+          "E2P11"
+        ]
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "title": "ON THE ORIGIN AND NATURE OF THE EMOTIONS",
+    "definitions": [
+      {
+        "id": "E3Def1",
+        "references": []
+      },
+      {
+        "id": "E3Def2",
+        "references": []
+      },
+      {
+        "id": "E3Def3",
+        "references": []
+      }
+    ],
+    "axioms": [],
+    "propositions": []
+  },
+  {
+    "number": 4,
+    "title": "Of Human Bondage",
+    "definitions": [
+      {
+        "id": "E4Def1",
+        "references": []
+      },
+      {
+        "id": "E4Def2",
+        "references": []
+      },
+      {
+        "id": "E4Def3",
+        "references": []
+      },
+      {
+        "id": "E4Def4",
+        "references": []
+      },
+      {
+        "id": "E4Def5",
+        "references": []
+      },
+      {
+        "id": "E4Def6",
+        "references": []
+      },
+      {
+        "id": "E4Def7",
+        "references": []
+      },
+      {
+        "id": "E4Def8",
+        "references": []
+      }
+    ],
+    "axioms": [],
+    "propositions": []
+  },
+  {
+    "number": 5,
+    "title": "Of the Power of the Understanding",
+    "definitions": [],
+    "axioms": [
+      {
+        "id": "E5Ax1",
+        "references": []
+      },
+      {
+        "id": "E5Ax2",
+        "references": []
+      }
+    ],
+    "propositions": [
+      {
+        "id": "E5P1",
+        "references": [
+          "E2P7",
+          "E2P6",
+          "E2P18",
+          "E3P2"
+        ]
+      },
+      {
+        "id": "E5P2",
+        "references": [
+          "E6P7"
+        ]
+      },
+      {
+        "id": "E5P3",
+        "references": [
+          "E2P21",
+          "E3P3"
+        ]
+      },
+      {
+        "id": "E5P4",
+        "references": [
+          "E2P38",
+          "E2P12",
+          "E2P13",
+          "E1P36",
+          "E5P2",
+          "E3P31",
+          "E4P37",
+          "E3P3"
+        ]
+      },
+      {
+        "id": "E5P5",
+        "references": [
+          "E4P11",
+          "E2P35"
+        ]
+      },
+      {
+        "id": "E5P6",
+        "references": [
+          "E1P29"
+        ]
+      },
+      {
+        "id": "E5P7",
+        "references": [
+          "E2P17",
+          "E4P6",
+          "E4P9",
+          "E2P38",
+          "E5P1"
+        ]
+      },
+      {
+        "id": "E5P8",
+        "references": [
+          "E3P7",
+          "E4P5"
+        ]
+      },
+      {
+        "id": "E5P9",
+        "references": [
+          "E4P26",
+          "E3P7",
+          "E2P11"
+        ]
+      },
+      {
+        "id": "E5P10",
+        "references": [
+          "E4P30",
+          "E4P27",
+          "E4P26",
+          "E5P7",
+          "E2P18",
+          "E5P6",
+          "E7P8"
+        ]
+      },
+      {
+        "id": "E5P11",
+        "references": [
+          "E5P8"
+        ]
+      },
+      {
+        "id": "E5P12",
+        "references": [
+          "E2P18"
+        ]
+      },
+      {
+        "id": "E5P13",
+        "references": [
+          "E2P18"
+        ]
+      },
+      {
+        "id": "E5P14",
+        "references": [
+          "E5P4",
+          "E1P15"
+        ]
+      },
+      {
+        "id": "E5P15",
+        "references": []
+      },
+      {
+        "id": "E5P16",
+        "references": [
+          "E5P14",
+          "E5P15",
+          "E5P11"
+        ]
+      },
+      {
+        "id": "E5P17",
+        "references": [
+          "E2P32",
+          "E2P4",
+          "E1P20",
+          "E2P3",
+          "E6P7"
+        ]
+      },
+      {
+        "id": "E5P18",
+        "references": [
+          "E3P3"
+        ]
+      },
+      {
+        "id": "E5P19",
+        "references": [
+          "E5P17",
+          "E3P19",
+          "E3P28"
+        ]
+      },
+      {
+        "id": "E5P20",
+        "references": [
+          "E4P28",
+          "E4P36",
+          "E4P37",
+          "E5P18",
+          "E3P35"
+        ]
+      },
+      {
+        "id": "E5P2",
+        "references": []
+      },
+      {
+        "id": "E5P21",
+        "references": [
+          "E2P8",
+          "E2P26",
+          "E2P17",
+          "E2P18"
+        ]
+      },
+      {
+        "id": "E5P22",
+        "references": [
+          "E1P25",
+          "E1P4",
+          "E1P16",
+          "E2P3"
+        ]
+      },
+      {
+        "id": "E5P23",
+        "references": [
+          "E2P13",
+          "E2P8"
+        ]
+      },
+      {
+        "id": "E5P24",
+        "references": [
+          "E1P25"
+        ]
+      },
+      {
+        "id": "E5P25",
+        "references": [
+          "E4P28",
+          "E4P8",
+          "E3P7"
+        ]
+      },
+      {
+        "id": "E5P26",
+        "references": []
+      },
+      {
+        "id": "E5P27",
+        "references": [
+          "E4P28",
+          "E5P25",
+          "E5P24"
+        ]
+      },
+      {
+        "id": "E5P28",
+        "references": []
+      },
+      {
+        "id": "E5P29",
+        "references": [
+          "E5P21",
+          "E2P26",
+          "E1P8",
+          "E5P23",
+          "E2P13"
+        ]
+      },
+      {
+        "id": "E5P30",
+        "references": [
+          "E1P8"
+        ]
+      },
+      {
+        "id": "E5P31",
+        "references": [
+          "E5P29",
+          "E5P21",
+          "E3P1"
+        ]
+      },
+      {
+        "id": "E5P32",
+        "references": [
+          "E5P27",
+          "E5P30",
+          "E5P29"
+        ]
+      },
+      {
+        "id": "E5P33",
+        "references": [
+          "E5P31",
+          "E1P3"
+        ]
+      },
+      {
+        "id": "E5P34",
+        "references": [
+          "E2P17",
+          "E2P16",
+          "E5P21"
+        ]
+      },
+      {
+        "id": "E5P35",
+        "references": [
+          "E1P6",
+          "E2P6",
+          "E2P3",
+          "E1P11",
+          "E5P32"
+        ]
+      },
+      {
+        "id": "E5P36",
+        "references": [
+          "E5P32",
+          "E3P3",
+          "E5P32",
+          "E1P25",
+          "E2P11",
+          "E25P30",
+          "E5P35",
+          "E5P27"
+        ]
+      },
+      {
+        "id": "E5P37",
+        "references": [
+          "E5P33"
+        ]
+      },
+      {
+        "id": "E5P38",
+        "references": [
+          "E2P11",
+          "E5P29",
+          "E4P30",
+          "E4P39",
+          "E5P27",
+          "E5P21"
+        ]
+      },
+      {
+        "id": "E5P39",
+        "references": [
+          "E4P38",
+          "E4P30",
+          "E5P10",
+          "E5P15",
+          "E5P16",
+          "E5P33"
+        ]
+      }
+    ]
+  }
+]
